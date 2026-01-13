@@ -1,0 +1,2 @@
+2026-01-13 21:23:17,141 - ERROR - Binance API error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-01-13 21:56:44,711 - ERROR - Market order failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
